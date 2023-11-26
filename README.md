@@ -1,7 +1,8 @@
 # ttrabalho_g2
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+A linguagem realizada para implementação desse código foi python por isso deve ser executado a seguinte instrução
+Execute o código usando o seguinte comando: python nome_do_script.py
+onde estiver o local do arquivo txt dever ser trocado pelo local onde 
+foi salvo o mesmo 
+
+
