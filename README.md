@@ -1,8 +1,23 @@
 # ttrabalho_g2
 
-A linguagem realizada para implementação desse código foi python por isso deve ser executado a seguinte instrução
-Execute o código usando o seguinte comando: python nome_do_script.py
-onde estiver o local do arquivo txt dever ser trocado pelo local onde 
-foi salvo o mesmo 
+1. **Preparar o Ambiente:**
+   - Abra um terminal ou prompt de comando e navegue até o diretório onde o código do sistema está localizado.
 
+2. **Instalar a Biblioteca heapq (se necessário):**
+   - A biblioteca `heapq` é usada no código. Normalmente, ela já está incluída na instalação padrão do Python, então você pode não precisar instalar nada. Caso contrário, você pode instalá-la com o seguinte comando:
+     ```bash
+     pip install heapq
+     ```
+
+3. **Executar o Código:**
+   - Execute o código usando o seguinte comando no terminal ou prompt de comando:
+     ```bash
+     python nome_do_script.py
+     ```
+    
+4. **Seguir as Instruções:**
+   - O sistema solicitará que você insira as coordenadas de destino. Digite as coordenadas X e Y conforme solicitado.
+
+5. **Resultados:**
+   - O sistema calculará o caminho mais curto usando o algoritmo A* e exibirá o custo total, o caminho encontrado e o mapa após a escolha das coordenadas.
 
